@@ -1,6 +1,6 @@
+![](https://komarev.com/ghpvc/?username=amitesh30&color=blueviolet)
 # 💫 About Me:
  -A student currently pursuing b.tech in AI&ML<br>- Focused on developing accurate disease detection models<br>- Mastering UI/UX design and various frameworks<br>- Proficient in Python, Java, JavaScript and C++<br>- Committed to innovating and revolutionizing technology.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SYLEN#6113) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_amiteshpatra_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amitesh-patra-7b1155256/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@empressdoes11) 
