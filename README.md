@@ -14,8 +14,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amitesh30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amitesh30&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
